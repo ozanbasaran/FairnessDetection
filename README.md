@@ -1,4 +1,6 @@
 Fairness with IBM AIF 360 
+
+
 The goal of this assignment is to study algorithmic fairness concepts using the AIF 360 tool. In
 this assignment, we will be using the COMPAS dataset.
 Exercise 1 
